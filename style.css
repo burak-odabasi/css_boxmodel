@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 30px;
+}
+
+.box-one {
+  background: rgb(211, 33, 33);
+}
+.box-two {
+  background: rgb(33, 211, 211);
+}
